@@ -314,8 +314,9 @@ https://spacedock.info/mod/777
 ### Wernher Checker Continued
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/1237
 
-### Docking camera (KURS)
+### Docking Camera KURS Style Re-Adopted
 https://spacedock.info/mod/1542
+
 
 ### Part Wizard Continued
 https://spacedock.info/mod/1148
