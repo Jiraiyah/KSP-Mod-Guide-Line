@@ -72,3 +72,33 @@ https://spacedock.info/mod/280
 ### Better Crew Assignment
 https://spacedock.info/mod/22
 
+### Reentry Particle Effect
+https://spacedock.info/mod/819
+
+### LightsOut Relit
+https://spacedock.info/mod/2077
+
+### Auto Asparagus
+https://spacedock.info/mod/281
+
+### Gimbal For All
+https://spacedock.info/mod/185
+
+### Atmosphere Autopilot
+https://spacedock.info/mod/683
+
+### GPO Speed Fuel Pump
+https://spacedock.info/mod/546
+
+### Transfer Window Planner
+https://spacedock.info/mod/713
+
+### Hullcam VDS Continued
+https://spacedock.info/mod/885
+
+### Kerbal Alarm Clock
+https://spacedock.info/mod/699
+
+### Hangar Grid
+https://spacedock.info/mod/244
+
