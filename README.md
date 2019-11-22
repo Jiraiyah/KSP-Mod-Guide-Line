@@ -5,6 +5,7 @@ a simple guide line for modding ksp (with links to each mod)
 
 ## Module Manager
 The most important mod, get it first.
+
 https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-module-manager-412-november-15th-2019-right-to-ludicrous-speed/
 
 ## Visual Mods
@@ -23,4 +24,5 @@ https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases
 
 ### Stock Visual Enhancements
 You need to download the textures separated from the config
+
 https://github.com/Galileo88/StockVisualEnhancements/releases
