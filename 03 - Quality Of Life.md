@@ -368,3 +368,15 @@ https://spacedock.info/mod/423
 
 ### Orbital Survey Plus
 https://spacedock.info/mod/574
+
+### Astrogator
+https://github.com/HebaruSan/Astrogator/releases
+
+### MechJeb
+https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/
+
+### Kerbal Inventory System
+https://kerbal.curseforge.com/ksp-mods/228561-kerbal-inventory-system-kis
+
+### Kerbal Attachment System
+https://spacedock.info/mod/1987
