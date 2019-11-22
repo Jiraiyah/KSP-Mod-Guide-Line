@@ -6,6 +6,9 @@ https://spacedock.info/mod/2064
 ### B9PartSwitch
 https://github.com/blowfishpro/B9PartSwitch/releases/latest
 
+### Burst Atomic Thrust Module
+https://spacedock.info/mod/2197
+
 ### PWB Fuel Balancer Restored
 https://spacedock.info/mod/2041
 
