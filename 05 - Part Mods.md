@@ -210,3 +210,111 @@ https://spacedock.info/mod/717
 
 ### Better Science Labs Continued
 https://spacedock.info/mod/45
+
+### Stockalike Mining Extension
+https://spacedock.info/mod/354
+
+### Pirates of the Keribbean
+https://spacedock.info/mod/903
+
+### Colorful Fuel Lines
+https://spacedock.info/mod/94
+
+### 6 Seat Mk3 Cockpit
+https://spacedock.info/mod/252
+
+### Field Training Facility
+https://spacedock.info/mod/978
+
+### Eskandare Aerospace
+https://spacedock.info/mod/2215
+
+### KSA IVA Upgrade
+https://spacedock.info/mod/211
+
+### VX Series II Engine Pack
+https://spacedock.info/mod/330
+
+### Porkalike Rapier
+https://spacedock.info/mod/182
+
+### EVA Handrails Continued
+https://spacedock.info/mod/49
+
+### Chaka Monkey Exploration Systems
+https://spacedock.info/mod/599
+
+### SETI-Greenhouse
+https://spacedock.info/mod/19
+
+### EVA Struts
+https://spacedock.info/mod/553
+
+### Phoenix Industries - Cargo Resupply System
+https://spacedock.info/mod/245
+
+### Impossible Innovations
+https://spacedock.info/mod/340
+
+### Radial Engine for spacecraft - T.G.O.L group
+https://spacedock.info/mod/668
+
+### Phoenix Industries - Boosters
+https://spacedock.info/mod/246
+
+### Flexible Docking
+https://spacedock.info/mod/838
+
+### Cargo Transportation Solutions
+https://spacedock.info/mod/28
+
+### Keridian Dynamics - Vessel Assembly
+NO UPDATE VERSION YET ==> https://spacedock.info/mod/308
+
+### Multiports
+https://spacedock.info/mod/360
+get the config ==> https://forum.kerbalspaceprogram.com/index.php?/topic/119261-multiports/&do=findComment&comment=3316431
+
+### BZ-1 Radial Attachment Point
+https://spacedock.info/mod/338
+
+### Kerbal Tubes
+https://spacedock.info/mod/34
+
+### Tiktaalik's Airlock Collection
+https://spacedock.info/mod/865
+
+### TAL Radially Attached Experimental Data Storage Container
+https://spacedock.info/mod/910
+
+### PEBKAC Industries: Launch Escape System
+https://spacedock.info/mod/816
+
+### Kerbal Weights
+https://spacedock.info/mod/477
+
+### Tough Love
+https://spacedock.info/mod/919
+
+### Standard Propulsion Systems
+https://spacedock.info/mod/226
+
+### SpaceY Expanded
+https://spacedock.info/mod/89
+
+### SpaceY Heavy Lifters
+https://spacedock.info/mod/88
+
+### Recoverable Emergency Kerbal Transport
+https://spacedock.info/mod/1021
+
+### Low Expectations Inc
+https://spacedock.info/mod/957
+
+### SpaceX Interplantary Transportation System by Thrimm Aerospace
+https://spacedock.info/mod/979
+
+### OPT
+https://spacedock.info/mod/1028
+https://spacedock.info/mod/1808
+https://spacedock.info/mod/711
