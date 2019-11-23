@@ -404,3 +404,9 @@ https://spacedock.info/mod/655
 ### Simple Construction
 Replace Extraplanetary launchpad's DLL from the original mod ==> https://forum.kerbalspaceprogram.com/index.php?/topic/54284--
 https://spacedock.info/mod/59
+
+### Electric Lights
+Not Official Compile ==> https://github.com/k-dueb/KSP-ElectricLights/releases
+
+### Bulb
+Not Official Compile ==> https://github.com/k-dueb/KSP-BULB/releases
