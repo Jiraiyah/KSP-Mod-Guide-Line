@@ -20,3 +20,49 @@ https://github.com/prestja/ksp-planetshine/releases/
 
 ### Distant Object Enhancements
 https://github.com/MOARdV/DistantObject/releases
+
+### KS3P
+https://spacedock.info/mod/1618
+
+### AdvancedTextures
+https://github.com/GER-Space/AdvancedTextures/releases
+
+### Textures Unlimited
+https://github.com/shadowmage45/TexturesUnlimited/releases
+
+## For texture replacement, choose one of the two from bellow
+
+### Texture Replacer
+https://spacedock.info/mod/1824
+
+### Drop-in Replacement Textures (DiRT)
+https://github.com/cydonian-monk/KSP-DiRT/releases
+
+## For textures to use on above mod :
+
+### Green Skull Inc. Custom Design Spacesuits
+http://www./download/xo3m361paopecbd/MEGA-Pack-v0.38.zip
+
+### Cetera's Suits.
+http://spacedock.info/mod/282
+
+### Poodmund's Deep Star Map Skybox
+https://spacedock.info/mod/925
+
+### Poodmund's Calm Nebula Skybox
+https://spacedock.info/mod/924
+
+### Poodmund's Milky Way Skybox
+https://spacedock.info/mod/926
+
+### Crab Nebula
+https://spacedock.info/mod/1491
+
+### Galactic Core
+https://spacedock.info/mod/1484
+
+### Blue Nebula
+https://spacedock.info/mod/1485
+
+### Dark Galaxy
+https://spacedock.info/mod/1486
