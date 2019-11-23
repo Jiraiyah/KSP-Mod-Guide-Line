@@ -24,6 +24,9 @@ https://github.com/MOARdV/DistantObject/releases
 ### KS3P
 https://spacedock.info/mod/1618
 
+### NEBULA Decals Continued
+https://spacedock.info/mod/1132
+
 ### AdvancedTextures
 https://github.com/GER-Space/AdvancedTextures/releases
 
