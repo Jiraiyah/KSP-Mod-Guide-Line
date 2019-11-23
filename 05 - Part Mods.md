@@ -615,3 +615,54 @@ Actually I have permission to add this to my mod, may do it later ==> https://fo
 
 ### Aset´s Deployable Light Globe
 https://sabercathost.com/5hhp/ASET.zip
+
+### Zero Point Inline Fairings for Stock
+https://spacedock.info/mod/616
+
+### FTL Drive Continued
+https://spacedock.info/mod/835
+
+### Lack Luster Labs Continued
+https://spacedock.info/mod/856
+
+### K2 Command Pod Continued
+https://spacedock.info/mod/1163
+
+### The Kurrikane Probe
+https://spacedock.info/mod/1338
+
+### BOMPs
+https://spacedock.info/mod/1354
+
+### KW Rocketry Rebalanced
+https://spacedock.info/mod/1497
+
+### Structural Tubing Restructured
+https://spacedock.info/mod/1753
+
+### Inline Ballutes
+https://spacedock.info/mod/1862
+
+### RLA Reborn
+https://spacedock.info/mod/1880
+
+### The RAT Pack
+https://spacedock.info/mod/1963
+
+### NovaPunch Rebalanced
+https://spacedock.info/mod/2003
+
+### Kerbonov Kn-2 Cockpit Module
+https://spacedock.info/mod/2007
+
+### Retrofuture Space Plane Parts Modernized
+https://spacedock.info/mod/2153
+
+### Mk-X Spaceplane Parts
+https://spacedock.info/mod/2165
+
+### ASET PRC (Portable Rover Components)
+https://spacedock.info/mod/2252
+
+### DeployableBatteries
+https://spacedock.info/mod/2268
