@@ -410,3 +410,132 @@ Not Official Compile ==> https://github.com/k-dueb/KSP-ElectricLights/releases
 
 ### Bulb
 Not Official Compile ==> https://github.com/k-dueb/KSP-BULB/releases
+
+### Kramax Autopilot Continued
+https://spacedock.info/mod/1019
+
+### Image Viewer Continued
+https://spacedock.info/mod/1037
+
+### Better Time Warp Continued
+https://spacedock.info/mod/1162
+
+### Flag Rotate
+https://spacedock.info/mod/1209
+
+### Flight Manager for Reusable Stages (FMRS) Continued
+https://spacedock.info/mod/1251
+
+### Danger Alerts Continued
+https://spacedock.info/mod/1260
+
+### KSPCasher Continued
+https://spacedock.info/mod/1267
+
+### ConstantTWR
+https://spacedock.info/mod/1429
+
+### Tac Sticky Controls
+https://spacedock.info/mod/1473
+
+### TAC Atomic Clock Irradiated
+https://spacedock.info/mod/1483
+
+### YongeTech: Tech Trees Plugin Re-Revived
+https://spacedock.info/mod/1526
+
+### Engine Ignitor Reignited
+https://spacedock.info/mod/1639
+
+### Throttle Limit Extended
+https://spacedock.info/mod/1640
+
+### Part Angle Display Continued
+https://spacedock.info/mod/1679
+
+### Precise Node Continued
+https://spacedock.info/mod/1691
+
+### ABookCase Orbital Reference System Updated
+https://spacedock.info/mod/1756
+
+### Diazo's Landing Height
+https://spacedock.info/mod/1844
+
+### MechJeb and Engineer For All
+https://spacedock.info/mod/1854
+
+### Experiment Tracker
+https://spacedock.info/mod/1858
+
+### ABFW Revived (Windows version)
+https://spacedock.info/mod/1869
+
+### Vertical Velocity Controller Redux
+https://spacedock.info/mod/1871
+
+### Horizontal Landing Aid Redux
+https://spacedock.info/mod/1872
+
+### ScienceAlert ReAlerted
+https://spacedock.info/mod/1886
+
+### Toolbar Controller
+https://spacedock.info/mod/1931
+
+### KerbalGPS Revived
+https://spacedock.info/mod/1949
+
+### KSP Resonant Orbit Calculator
+https://spacedock.info/mod/1954
+
+### Filter Extensions
+https://spacedock.info/mod/1972
+
+### Action Group Manager Renewed
+https://spacedock.info/mod/1976
+
+### Extended information about scientific experiments in VAB
+https://spacedock.info/mod/2000
+
+### Fill It Up
+https://spacedock.info/mod/2051
+
+### Ground Proximity
+https://spacedock.info/mod/2056
+
+### Toolbar
+https://spacedock.info/mod/2090
+
+### PartInfo
+https://spacedock.info/mod/2091
+
+### MagiCore
+https://spacedock.info/mod/2094
+
+### AECS_Motion_Suppressor (air brake, engine, & control surface)
+https://spacedock.info/mod/2095
+
+### Engine Lighting Relit
+https://spacedock.info/mod/2111
+
+### KerbCam
+https://spacedock.info/mod/2135
+
+### TrimIndicators
+https://spacedock.info/mod/2179
+
+### HeapPadder
+https://spacedock.info/mod/2190
+
+### SpaceTux Library
+https://spacedock.info/mod/2210
+
+### Ship Effects Continued
+https://spacedock.info/mod/2225
+
+### Crew Light Relit
+https://spacedock.info/mod/2236
+
+### Improved and Updated Chase Camera
+https://spacedock.info/mod/2249
