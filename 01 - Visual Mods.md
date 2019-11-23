@@ -19,7 +19,7 @@ https://github.com/Galileo88/Stock-Visual-Terrain/releases
 https://github.com/prestja/ksp-planetshine/releases/
 
 ### Distant Object Enhancements
-https://github.com/MOARdV/DistantObject/releases
+https://spacedock.info/mod/2274
 
 ### KS3P
 https://spacedock.info/mod/1618
