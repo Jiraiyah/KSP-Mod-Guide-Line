@@ -539,3 +539,48 @@ https://spacedock.info/mod/1682
 
 ### LV-BNTR
 https://spacedock.info/mod/1648
+
+### Deep Space Surface Habitat Unit Pack
+https://spacedock.info/mod/1622
+
+### Krash Inc MegaPack
+https://spacedock.info/mod/1800
+
+### DarkSideTechnology Continued.
+https://spacedock.info/mod/1786
+
+### Notantares - Station Parts.
+https://spacedock.info/mod/1784
+
+### Daedalus Consortium Megastations
+https://spacedock.info/mod/1694
+
+### Baha EPL - Redrilled
+https://spacedock.info/mod/1708
+
+### Danube Class Runabout
+https://spacedock.info/mod/1740
+
+### Notantares - Porkalike 2-man "Mk1-A" Command Pod.
+https://spacedock.info/mod/1788
+
+### Mkerb Inc. Oxidizer Tank
+https://spacedock.info/mod/1778
+
+### Internal RCS
+https://spacedock.info/mod/1766
+
+### Kerbalow Aerospace
+https://spacedock.info/mod/1755
+
+### CONTARES
+https://spacedock.info/mod/180
+
+### The SSR MicroSat: 0.35m Probe Parts Revived
+https://spacedock.info/mod/1795
+
+### W3 Aircraft parts
+https://spacedock.info/mod/1736
+
+### B9 Aerospace
+https://github.com/blowfishpro/B9-Aerospace/releases
