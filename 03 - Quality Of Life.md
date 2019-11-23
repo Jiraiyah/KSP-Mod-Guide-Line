@@ -6,6 +6,9 @@ https://spacedock.info/mod/2064
 ### B9PartSwitch
 https://github.com/blowfishpro/B9PartSwitch/releases/latest
 
+### B9 Animation Modules
+https://github.com/blowfishpro/B9AnimationModules/releases
+
 ### Burst Atomic Thrust Module
 https://spacedock.info/mod/2197
 
@@ -384,3 +387,20 @@ https://kerbal.curseforge.com/ksp-mods/228561-kerbal-inventory-system-kis
 
 ### Kerbal Attachment System
 https://spacedock.info/mod/1987
+
+### VOID
+https://spacedock.info/mod/285
+
+### Chatterer
+https://spacedock.info/mod/208
+https://spacedock.info/mod/1367
+
+### Kerbal Klinic
+https://spacedock.info/mod/1636
+
+### Easy Board
+https://spacedock.info/mod/655
+
+### Simple Construction
+Replace Extraplanetary launchpad's DLL from the original mod ==> https://forum.kerbalspaceprogram.com/index.php?/topic/54284--
+https://spacedock.info/mod/59
