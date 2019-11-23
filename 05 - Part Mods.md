@@ -318,3 +318,224 @@ https://spacedock.info/mod/979
 https://spacedock.info/mod/1028
 https://spacedock.info/mod/1808
 https://spacedock.info/mod/711
+
+### SXT Continued
+https://spacedock.info/mod/1030
+
+### Xenon ISRU
+https://spacedock.info/mod/1010
+
+### Retractable Lifting Surface Module
+https://spacedock.info/mod/886
+
+### Shuttle Payload Technologies
+https://spacedock.info/mod/1011
+
+### Hangar
+https://spacedock.info/mod/1000
+
+### SSTU Nova Add-on Pack
+https://spacedock.info/mod/758
+
+### Crew Light
+https://spacedock.info/mod/1012
+
+### Science Containers
+https://spacedock.info/mod/797
+
+### PSA Greenhouse
+https://spacedock.info/mod/767
+
+### Bluedog Design Bureau
+https://spacedock.info/mod/442
+
+### Korda Industries
+https://spacedock.info/mod/1094
+
+### ESLD Jump Beacons
+https://spacedock.info/mod/821
+
+### ReCoupler
+https://spacedock.info/mod/1250
+
+### Tac Self Destruct Continued
+https://spacedock.info/mod/1135
+
+### OSE Workshop Reworked - KIS Addon
+https://spacedock.info/mod/2086
+
+### Airline Kuisine
+https://spacedock.info/mod/1252
+
+### Blast Awesomeness Modifier (BAM)
+https://spacedock.info/mod/1225
+
+### Streamline - Engines, RCSs and fueltanks
+https://spacedock.info/mod/1503
+
+### Ventral Drill for Stock ISRU
+https://spacedock.info/mod/1328
+
+### Deep Space Exploration Vessels
+https://spacedock.info/mod/795
+
+### Coyote Space Industries - Cargo Freighter
+https://spacedock.info/mod/1332
+
+### Ministry of Space Aeronautic Department
+https://spacedock.info/mod/1289
+
+### HOYO Capsule & SM. LonesomeRobots Aerospace
+https://spacedock.info/mod/1130
+
+### Dyna-Soar & SIV Space Station. LonesomeRobots Aerospace.
+https://spacedock.info/mod/1164
+
+### Discontinued Parts
+https://spacedock.info/mod/137
+
+### Space shuttle SRB
+https://spacedock.info/mod/549
+
+### MK-1 Stockalike open cockpit ( inline external seat )
+https://spacedock.info/mod/1126
+
+### Kerbal Hacks: Droptank "Wrapper"
+https://spacedock.info/mod/1127
+
+### NovaPunch Continued
+https://spacedock.info/mod/1076
+
+### Real Scale Boosters Stockalike
+https://spacedock.info/mod/561
+
+### PicoPort
+https://spacedock.info/mod/1165
+
+### Ground Construction
+https://spacedock.info/mod/1123
+
+### Fuel Tanks Plus Deprecated
+https://spacedock.info/mod/387
+
+### Space Launch System Part Pack
+https://spacedock.info/mod/325
+
+### Triple-Z RadioTelescope
+https://spacedock.info/mod/1358
+
+### SpaceX Launch Towers
+https://spacedock.info/mod/626
+
+### Prakasa Aeroworks
+https://spacedock.info/mod/443
+
+### Stock jet Turbines resurrected
+https://spacedock.info/mod/350
+
+### JD Liquid Fuel Cell
+https://spacedock.info/mod/665
+
+### Knes
+https://spacedock.info/mod/1470
+
+### SpacePlane Corrections
+https://spacedock.info/mod/1194
+
+### Back In Black
+https://spacedock.info/mod/1478
+
+### Planetary Domes
+https://spacedock.info/mod/958
+
+### Master Tech Aerospace
+https://spacedock.info/mod/393
+
+### Fuel Wings
+https://spacedock.info/mod/1290
+
+### CA - Mk3 Block II
+https://spacedock.info/mod/1513
+
+### Space Shuttle System
+https://spacedock.info/mod/1178
+
+### Tokamak Refurbished Parts
+https://spacedock.info/mod/1444
+
+### Ablative-Airbrake
+https://spacedock.info/mod/1245
+
+### ALCOR
+https://spacedock.info/mod/1203
+https://spacedock.info/mod/1205
+
+### Single Part Aviation(f22)
+https://spacedock.info/mod/1034
+
+### Fuel Tank Expansion Rebuilt
+https://spacedock.info/mod/1396
+
+### Recycled Parts
+https://spacedock.info/mod/1507
+
+### Thor Tech
+https://spacedock.info/mod/1620
+
+### Training Laboratory
+https://spacedock.info/mod/971
+
+### James Webb For Kerbal
+https://spacedock.info/mod/1588
+
+### Station Parts. LonesomeRobots Aerospace
+https://spacedock.info/mod/1537
+
+### new reaction wheels
+https://spacedock.info/mod/1270
+
+### Kerboblus Space Industries - Miscellaneous Parts Division
+https://spacedock.info/mod/1629
+
+### Aviation Lights
+https://github.com/MOARdV/AviationLights/releases
+https://spacedock.info/mod/1472
+
+### Kube
+https://spacedock.info/mod/1539
+
+### BonVoyage
+https://spacedock.info/mod/950
+
+### DIRECT Launch Vehicle
+https://spacedock.info/mod/415
+
+### WarpCoreUnit1
+https://spacedock.info/mod/1642
+
+### Procedural Heat Shields
+https://spacedock.info/mod/1459
+
+### KEAM - Kerbal Expandable Activity Module
+https://spacedock.info/mod/1606
+
+### JX2 Antenna
+https://spacedock.info/mod/1107
+
+### DarkSideTechnology Motherships
+https://spacedock.info/mod/1635
+
+### DADV-1. LonesomeRobots Aerospace
+https://spacedock.info/mod/1602
+
+### Retracting/vectoring engines, Critter Crawler
+https://spacedock.info/mod/1641
+
+### Airplane Plus
+https://spacedock.info/mod/716
+
+### Stockalike Station Parts Expansion Redux
+https://spacedock.info/mod/1682
+
+### LV-BNTR
+https://spacedock.info/mod/1648
