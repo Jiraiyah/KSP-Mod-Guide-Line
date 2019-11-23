@@ -666,3 +666,11 @@ https://spacedock.info/mod/2252
 
 ### DeployableBatteries
 https://spacedock.info/mod/2268
+
+### Infernal Robotics
+https://github.com/meirumeiru/InfernalRobotics/releases
+https://github.com/meirumeiru/IR-Sequencer/releases
+https://github.com/meirumeiru/IR-Active-Struts/releases
+
+### HabTech2
+https://spacedock.info/mod/2078
