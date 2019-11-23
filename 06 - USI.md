@@ -38,3 +38,6 @@ https://github.com/BobPalmer/CommunityCategoryKit/releases
 
 ### Community Resource Pack
 http://github.com/BobPalmer/CommunityResourcePack/releases
+
+### Supply backpack for USI Life Support
+https://spacedock.info/mod/379
