@@ -57,6 +57,9 @@ https://spacedock.info/mod/1933
 ### Kerbal Konstructs
 https://github.com/GER-Space/Kerbal-Konstructs/releases
 
+### Omega's Stockalike Utility Vehicles
+https://spacedock.info/mod/2005
+
 ### Kerbin-Side continued
 https://spacedock.info/mod/1347
 
