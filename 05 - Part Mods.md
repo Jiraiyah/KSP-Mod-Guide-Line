@@ -608,3 +608,6 @@ https://spacedock.info/mod/1009
 Old mod that needs cleaning, but I really like the concept of having inline lights, not sure why ASET dropped this one
 https://www.dropbox.com/s/0o94tdgxj8g4g2d/StackInlineLightsRGB-v0.7%20%28regular%29.zip?dl=0
 Actually I have permission to add this to my mod, may do it later ==> https://forum.kerbalspaceprogram.com/index.php?/topic/47765-090-stack-inline-lights-07-update-07042015/&do=findComment&comment=3274747
+
+### Aset´s Deployable Light Globe
+https://sabercathost.com/5hhp/ASET.zip
