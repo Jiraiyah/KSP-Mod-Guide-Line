@@ -123,4 +123,12 @@ https://github.com/KillAshley/UL/releases
 Not Supported by Galactic Neighborhood
 https://github.com/TheProtagonists/TheWorldBeyond/releases/latest
 
-My personal advice, either go with gn and all it's compatible packs, or, go on the world beyound alone !
+### Kolyphemus System Continued
+Not Supported by Galactic Neighborhood
+https://spacedock.info/mod/2055
+
+### To Boldly Go
+An external application designed to procedurally generate an entire galaxy for KSP
+https://github.com/kjoenth/To-Boldly-Go/releases
+
+My personal advice, either go with gn and all it's compatible packs, or, go on the world beyound alone ! Sometimes if I want to go nuts, I choose to use To Badly Go !
