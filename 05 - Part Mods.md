@@ -584,3 +584,22 @@ https://spacedock.info/mod/1736
 
 ### B9 Aerospace
 https://github.com/blowfishpro/B9-Aerospace/releases
+
+### KerbalFoundries - Continued
+https://github.com/shadowmage45/KerbalFoundries2/releases
+
+### KSPWheel - Physics Based Alternate Wheel Collider
+https://github.com/shadowmage45/KSPWheel/releases
+For 1.8.1 recompile replace the dll with this one ==> https://github.com/shadowmage45/KSPWheel/blob/dev/GameData/KSPWheel/Plugin/KSPWheel.dll?raw=true
+
+### SSTULabs
+https://github.com/shadowmage45/SSTULabs/releases
+
+### The Gold Standard!
+https://spacedock.info/mod/963
+If you have Stockalike Mining Extension, 
+1- get the config from here ==> https://forum.kerbalspaceprogram.com/index.php?/topic/130325-18x-stockalike-mining-extension-0994-release-1192019/&do=findComment&comment=3203456
+2- And then add the fix from here ==> https://forum.kerbalspaceprogram.com/index.php?/topic/149125-v13-the-gold-standard-minable-gold-and-unobtainium-for-profit/&do=findComment&comment=3500773
+
+### Radial Stack Separator
+https://spacedock.info/mod/1009
