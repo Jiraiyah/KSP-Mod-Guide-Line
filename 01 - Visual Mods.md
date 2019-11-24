@@ -44,7 +44,7 @@ https://github.com/cydonian-monk/KSP-DiRT/releases
 ## For textures to use on above mod :
 
 ### Green Skull Inc. Custom Design Spacesuits
-http://www./download/xo3m361paopecbd/MEGA-Pack-v0.38.zip
+http://www.mediafire.com/file/xo3m361paopecbd/MEGA-Pack-v0.38.zip/file
 
 ### Cetera's Suits.
 http://spacedock.info/mod/282
