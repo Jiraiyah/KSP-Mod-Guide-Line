@@ -163,8 +163,11 @@ https://spacedock.info/mod/302
 ### MK3 Pod IVA Replacement by Apex
 https://spacedock.info/mod/315
 
-### Raster Prop Monitor
+### Raster Prop Monitor ***
 https://github.com/Mihara/RasterPropMonitor/releases/
+
+### MOARdV's Avionics Systems
+https://github.com/MOARdV/AvionicsSystems/releases
 
 ### Action Groups Extended
 https://spacedock.info/mod/1685
@@ -263,7 +266,7 @@ https://spacedock.info/mod/186
 ### CommNet Constellation
 https://spacedock.info/mod/1309
 
-### Davon Throttle Control systems
+### Davon Throttle Control systems ***
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/363
 
 ### Basic DeltaV
@@ -290,6 +293,10 @@ https://spacedock.info/mod/592
 ### 'Mk1 Cockpit' IVA Replacement by ASET
 Check 04 - ASET Downloads file
 https://spacedock.info/mod/1214
+
+### Warbird Cockpits
+Check 04 - ASET Downloads file
+https://spacedock.info/mod/1375
 
 ### Dated QuickSaves
 https://spacedock.info/mod/643
@@ -362,7 +369,8 @@ https://spacedock.info/mod/1077
 ### Deflatable Heat Shield
 https://spacedock.info/mod/918
 
-### Jool Biomes
+### Jool Biomes ***
+Requires Kopernicus
 https://spacedock.info/mod/26
 
 ### Kustom Kerbals
@@ -378,13 +386,10 @@ https://github.com/HebaruSan/Astrogator/releases
 https://ksp.sarbian.com/jenkins/job/MechJeb2-Release/
 
 ### Kerbal Inventory System
-https://kerbal.curseforge.com/ksp-mods/228561-kerbal-inventory-system-kis
+https://spacedock.info/mod/1909
 
 ### Kerbal Attachment System
 https://spacedock.info/mod/1987
-
-### VOID
-https://spacedock.info/mod/285
 
 ### Chatterer
 https://spacedock.info/mod/208
@@ -474,9 +479,6 @@ https://spacedock.info/mod/1872
 
 ### ScienceAlert ReAlerted
 https://spacedock.info/mod/1886
-
-### Toolbar Controller
-https://spacedock.info/mod/1931
 
 ### KerbalGPS Revived
 https://spacedock.info/mod/1949
