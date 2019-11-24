@@ -1,6 +1,6 @@
 I add these next, why? They need memory, and at the same time, they maynot work with latest builds of the game, most of the time, I test them one by one with an empty instance of the game to have faster loading time
 
-### Kopernicus
+### Kopernicus ***
 A must have if you want to play with extra planets
 https://github.com/Kopernicus/Kopernicus/releases/latest
 
