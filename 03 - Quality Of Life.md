@@ -6,7 +6,7 @@ https://spacedock.info/mod/2064
 ### B9PartSwitch
 https://github.com/blowfishpro/B9PartSwitch/releases/latest
 
-### B9 Animation Modules
+### B9 Animation Modules ***
 https://github.com/blowfishpro/B9AnimationModules/releases
 
 ### Burst Atomic Thrust Module
@@ -24,7 +24,7 @@ https://spacedock.info/mod/628
 ### Better Burn Time
 https://spacedock.info/mod/21
 
-### Connected Living Space
+### Connected Living Space ***
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/190
 
 ### Docking Port Alignment Indicator
@@ -41,11 +41,6 @@ https://github.com/linuxgurugamer/ksp_toolbar/releases
 
 ### Ship Manifest
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/189
-
-### Community Resource Pack
-
-### Engine Lighting
-NO UPDATE VERSION YET ==> https://spacedock.info/mod/272
 
 ### Trajectories
 https://spacedock.info/mod/396
