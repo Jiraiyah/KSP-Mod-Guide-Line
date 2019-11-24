@@ -42,7 +42,7 @@ https://github.com/linuxgurugamer/ksp_toolbar/releases
 ### Ship Manifest
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/189
 
-### Trajectories
+### Trajectories ***
 https://spacedock.info/mod/396
 
 ### Tweak Scale
@@ -61,13 +61,13 @@ https://spacedock.info/mod/640
 ### Portrait Stats
 https://spacedock.info/mod/133
 
-### Science - Full reward!
+### Science - Full reward! ***
 https://spacedock.info/mod/74
 
 ### RealChute Parachute Systems
 https://github.com/StupidChris/RealChute/releases/latest
 
-### Safe Chute
+### Safe Chute ***
 https://spacedock.info/mod/280
 
 ### Better Crew Assignment
