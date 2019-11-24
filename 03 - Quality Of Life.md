@@ -79,7 +79,7 @@ https://spacedock.info/mod/819
 ### LightsOut Relit
 https://spacedock.info/mod/2077
 
-### Auto Asparagus
+### Auto Asparagus ***
 https://spacedock.info/mod/281
 
 ### Gimbal For All
@@ -88,7 +88,7 @@ https://spacedock.info/mod/185
 ### Atmosphere Autopilot
 https://spacedock.info/mod/683
 
-### GPO Speed Fuel Pump
+### GPO Speed Fuel Pump ***
 https://spacedock.info/mod/546
 
 ### Transfer Window Planner
@@ -103,7 +103,7 @@ https://spacedock.info/mod/699
 ### Hangar Grid
 https://spacedock.info/mod/244
 
-### Alternate Resource Panel
+### Alternate Resource Panel ***
 NO UPDATE VERSION YET ==> https://spacedock.info/mod/763
 
 ### Advanced SAS For All
@@ -130,7 +130,7 @@ https://spacedock.info/mod/136
 ### Launch Numbering
 https://spacedock.info/mod/201
 
-### UNDOCKINATOR
+### UNDOCKINATOR ***
 https://spacedock.info/mod/984
 
 ### Custom Asteroids
@@ -154,7 +154,7 @@ https://spacedock.info/mod/825
 ### Decouple from heatshield
 https://spacedock.info/mod/472
 
-### Kronal Vessel Viewer (KVV)
+### Kronal Vessel Viewer (KVV) ***
 http://spacedock.info/mod/1092
 
 ### KRASH - Kerbal Ramification Artifical Simulation Hub
