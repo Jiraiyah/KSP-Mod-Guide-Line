@@ -30,12 +30,12 @@ https://spacedock.info/mod/1132
 ### AdvancedTextures
 https://github.com/GER-Space/AdvancedTextures/releases
 
-### Textures Unlimited
+### Textures Unlimited ***
 https://github.com/shadowmage45/TexturesUnlimited/releases
 
 ## For texture replacement, choose one of the two from bellow
 
-### Texture Replacer
+### Texture Replacer ***
 https://spacedock.info/mod/1824
 
 ### Drop-in Replacement Textures (DiRT)
